@@ -1,0 +1,12 @@
+{
+    "name": "hw1",
+    "version": "1.0.0",
+    "description": "",
+    "main": "hw1.js",
+    "scripts": {
+        "start": "node hw1.js"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC"
+}
